@@ -1,6 +1,14 @@
 /* css que serão reutilizados em outra parte do site
 ex o nosso botão */
 
+.container {
+  max-width: 1200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+}
 .botao {
   display: inline-block;
   padding: 16px 32px;
