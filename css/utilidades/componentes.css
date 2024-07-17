@@ -46,7 +46,7 @@ ex o nosso botão */
  height: 10px;
  margin-left: 12px;
  background: url("../../img/icones/seta.svg");
- transition: transform 0.2s;git add
+ transition: transform 0.2s;
 }
 
 .botao.seta:hover::after {
